@@ -1,0 +1,23 @@
+h3 {
+    text-align: center;
+}
+
+#timer {
+    margin: 50px 0 30px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+#buttons {
+    width: 250px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    /* user-select: none; */
+}
+
+/* .button {
+    width: 80px;
+    height: 50px;
+} */
